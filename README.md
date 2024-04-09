@@ -4,3 +4,6 @@ The repository contains simulink model for implementation of a GNC algorithms fo
 
 ![image](https://github.com/khushant2001/Missile-GNC/assets/70731991/d1dccc59-df42-4674-a205-3ec8a39b1be5)
 
+
+https://github.com/khushant2001/Missile-GNC/assets/70731991/c85ef5fb-3c6d-4719-bd35-23022348005f
+
